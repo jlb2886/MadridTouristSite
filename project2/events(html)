@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Madrid Spain</title>
+</head>
+
+<body>
+<div class="events">
+    <h1> Madrid Events </h1>
+  </div>
+
+  <div class="calendar">
+    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23F6BF26&amp;ctz=America%2FNew_York&amp;src=aG40ZWNwdTcyN20yNTN1YW0xaTNwb3Q4M2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F09300&amp;title=Madrid" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div class="row">
+    <a href="https://people.rit.edu/jlb2886/iste240/sportsevents.html">
+    <div class="column">
+      <h2>Sports Events</h2>
+      <p>Click here to see sports events in Madrid</p>
+    </div>
+    </a>
+    <a href="https://people.rit.edu/jlb2886/iste240/concertevents.html">
+    <div class="column">
+      <h2>Concerts</h2>
+      <p>Click here to see concerts in Madrid</p>
+    </div>
+    </a>
+    <a href="https://people.rit.edu/jlb2886/iste240/festivalevents.html">
+    <div class="column">
+      <h2>Festivals</h2>
+      <p>Click here to see festivals that are going on in Madrid</p>
+    </div>
+    </a>
+  </div>
+</body>
+</html>
