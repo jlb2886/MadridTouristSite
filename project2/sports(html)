@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Madrid Spain</title>
+</head>
+
+<body> 
+ <div class="container">
+    <div class="sportsevents">
+      <h2 class="sports">Sports in Madrid</h2>
+      <img class="soccer" src="assets/images/madridsoccer.jpg">
+      <div class="soccerinformation">
+        <h3 class="soccertitle">
+          Soccer Game Event
+        </h3>
+        <p class="infosoccer">
+          Madrid is going to be playing against Germany on October 22nd, 2019. This will take place in 
+          the Wanda Metropolitano Stadium at 6:55pm. Tickets are still available. 
+        </p>
+        <p class="info"><h4>When:</h4> 6:55pm October 22nd, 2019</p>
+        <p class="info"><h4>Where:</h4> Wanda Metropolitano Stadium</p>
+        <p class="info"><h4>What:</h4> Madrid vs. Germany Soccer Game</p>
+        <br>
+        <a href="https://entradas.atleticodemadrid.com/clubatleticodemadridchampions/es_ES/entradas/evento/16403/session/901855/select?q=5164b284-0078-4f84-8274-a194c210e18a&p=7499da99-9e9b-46ee-8968-9191269af3b8&ts=1568123428&c=oneboxtm&e=atmblev1920&rt=Safetynet&h=29e2bb36d68c22b2752127f4568f3437">
+        <div class="tickets">
+          <h4>Get Tickets Now</h4>
+        </div>
+        </a>
+      </div>
+    </div> <!-- end of title -->
+  </div>
+
+</body>
+</html>
