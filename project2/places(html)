@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Madrid Spain</title>
+</head>
+
+<body>
+<h1 class= "headercolumn">Places to visit</h1>
+
+  <!-- first row -->
+
+  <div class="row">
+    <div class="column" style="border-style: solid; border-width: 3px; border-color: #e60026">
+      <h2>Plaza Mayor</h2>
+      <div class="mapouter">
+        <div class="gmap_canvas">
+          <iframe width="700" height="350" id="gmap_canvas" src="https://maps.google.com/maps?q=Plaza%20Mayor&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
+          </iframe>
+          <a href="https://usave.co.uk">usave</a>
+        </div>
+      </div>
+    </div>
+    <div class="column" style="border-style: solid; border-width: 3px; border-color: #e60026">
+      <!-- slideshow -->
+        <div class="content" style="max-width:500px">
+          <img class="mySlides" src="../assets/images/plazamayor1-optomized.JPG" style="width:100%">
+          <img class="mySlides" src="../assets/images/plazamayor2-optomized.JPG" style="width:100%">
+          <img class="mySlides" src="../assets/images/plazamayor3-optomized.JPG" style="width:100%">
+          <img class="mySlides" src="../assets/images/plazamayor4-optomized.JPG" style="width:100%">
+        </div>
+      <br>
+      <p class= "para">Plaza Mayor is where you can do some shopping, eat authentic food, stop at a cafe and enjoy everything the outdoors brings you. Plaza Mayor is at the center of Madrid and was first built in 1580-1619 so there is a historic feel to this outdoor public area. As a tourist, some things you may see in this public area are children playing soccer and many people enjoying a coffee at the local cafe. This is also the center where many concerts are performed and festivals are happening throughout the year.</p>
+      <!-- end of slideshow -->
+    </div>
+  </div>
+
+  <!-- Second row -->
+
+  <div class="row">
+    <div class="column" style="border-style: solid; border-width: 3px; border-color: #e60026">
+      <h2>Royal Palace of Madrid</h2>
+      <div class="mapouter">
+        <div class="gmap_canvas">
+          <iframe width="700" height="350" id="gmap_canvas" src="https://maps.google.com/maps?q=Royal%20Palace%20of%20Madrid&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
+          </iframe>
+          <a href="https://usave.co.uk">usave</a>
+        </div>
+      </div>
+    </div>
+    <div class="column" style="border-style: solid; border-width: 3px; border-color: #e60026">
+      <!-- slideshow -->
+        <div class="content" style="max-width:500px">
+          <img class="mySlides2" src="../assets/images/royalpalace1-optomized.JPG" style="width:100%">
+          <img class="mySlides2" src="../assets/images/optomized-royalpalaceofmadridbuilding.JPG" style="width:100%">
+          <img class="mySlides2" src="../assets/images/royalpalace2-optomized.JPG" style="width:100%">
+          <img class="mySlides2" src="../assets/images/royalpalace3-optomized.JPG" style="width:100%">
+        </div>
+        <br>
+        <p class= "para">This is the palace where many Royal Spanish families reside; however, the current royal family lives just outside Madrid in a more functional palace. The Royal Palace of Madrid is currently where many ceremonies take place involving the royal family and government of Madrid. This palace is massive. It is a long walk to take from one side of the palace to the other so make sure to wear the proper shoes for walking while exploring this area of Madrid. It is definitely worth the walk when you get to see the palace. Its architecture is beautiful and it has fine details such as the gold that surrounds the building.</p>
+      <!-- end of slideshow -->
+    </div>
+  </div>
+
+  <!-- Third row -->
+
+  <div class="row">
+      <div class="column" style="border-style: solid; border-width: 3px; border-color: #e60026">
+        <h2>Gran Via</h2>
+        <div class="mapouter">
+          <div class="gmap_canvas">
+            <iframe width="700" height="350" id="gmap_canvas" src="https://maps.google.com/maps?q=Gran%20Via%20Madrid&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
+            </iframe>
+            <a href="https://usave.co.uk">usave</a>
+          </div>
+        </div>
+      </div>
+      <div class="column" style="border-style: solid; border-width: 3px; border-color: #e60026">
+        <!-- slideshow -->
+          <div class="content" style="max-width:500px">
+            <img class="mySlides3" src="../assets/images/granvia1-optomized.JPG" style="width:100%">
+            <img class="mySlides3" src="../assets/images/granvia2-optomized.JPG" style="width:100%">
+            <img class="mySlides3" src="../assets/images/granvia3-optomized.JPG" style="width:100%">
+            <img class="mySlides3" src="../assets/images/optomized-madridbear.JPG" style="width:100%">
+          </div>
+          <br>
+          <p class= "para">If you enjoy shopping, good food, and movies the Gran Via is the perfect place for you. Gran Via is Madrid’s center for shopping. It is a long street that starts at Calle de Alcalá and ends at  Plaza de España. Along with shopping be sure to stop to see the famous symbol of Madrid the bear and the strawberry tree which is just a six-minute walk from Calle Gran Via.</p>
+        <!-- end of slideshow -->
+      </div>
+    </div>
+      </div>
+    </div>
+
+<script type="text/javascript" src="../assets/js/madridspainplaces.js"></script>
+
+</body>
+</html>
