@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Madrid Spain</title>
+</head>
+<body>
+<div class="container2">
+    <div class="inside1">
+      <a href="https://serenity.ist.rit.edu/~jlb2886/240/project2/form/home.php">
+        <div class="rubric">
+            <p><b>Tell Us About Your Trip!</b></p>
+        </div>
+      </a>
+    </div>
+
+    <div class="container2">
+      <div class="inside1">
+        <a href="https://serenity.ist.rit.edu/~jlb2886/240/project2/comments/home.php">
+          <div class="rubric">
+              <p><b>Give us a comment!</b></p>
+          </div>
+        </a>
+      </div>
+</body>
+</html>
