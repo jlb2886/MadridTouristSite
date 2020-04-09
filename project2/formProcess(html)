@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="UTF-8">
+    </head>
+    
+    <body>
+        <div id = "thanks">
+            <img id = "thanksPic" src="../assets/images/thankyou.png" alt="Thank you">
+        </div>
+    </body>
+    
+</html>
