@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Madrid Spain</title>
+</head>
+
+<body>
+<div class="content" style="max-width:800px">
+  <img class="mySlides" src="../assets/images/optomized-citycenter.JPG" style="width:100%" alt="slide1">
+  <img class="mySlides" src="../assets/images/optomized-royalpalaceofmadridbuilding.JPG" style="width:100%" alt="slide2">
+  <img class="mySlides" src="../assets/images/optomized-citystreets.JPG" style="width:100%" alt="slide3">
+  <img class="mySlides" src="../assets/images/optomized-madridbuilding.JPG" style="width:100%" alt="slide4">
+  <img class="mySlides" src="../assets/images/optomized-madridbear.JPG" style="width:100%" alt="slide5">
+  <img class="mySlides" src="../assets/images/optomized-glasspalace.JPG" style="width:100%" alt="slide6">
+</div>
+
+<div class="container">
+  <div class="about">
+  <p>Welcome to the tourist site for Madrid, the capital of Spain. On this site, you will find different tourist attractions, food to try while in Madrid, different events that are going on, and a section to contact us if you have any more questions. I hope your stay in Madrid will be a wonderful and exciting one.</p>
+  </div>
+</div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 5000); // Change image every 5 seconds
+}
+</script>
+
+</body>
+</html>
