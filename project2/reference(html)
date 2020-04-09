@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Madrid Spain</title>
+</head>
+
+<body>
+<div class="container">
+    <div class="inside1">
+      <a href="https://people.rit.edu/jlb2886/iste240/gradingrubric.html">
+        <div class="rubric">
+            <p><b>Grading Rubric Is Found Here</b></p>
+        </div>
+      </a>
+    </div>
+
+    <div class="inside2">
+      <div class="title">
+          <h2>References</h2>
+        </div>
+      <div class="divTable">
+<div class="divTableBody">
+<div class="divTableRow">
+<div class="divTableCell"><strong>Source</strong></div>
+<div class="divTableCell"><strong>Source updated</strong></div>
+<div class="divTableCell"><strong>Work Done With Source</strong></div>
+<div class="divTableCell"><strong>Image or Information</strong></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">&nbsp;<a href="https://spanishsabores.com/2018/02/03/the-top-12-spanish-foods-you-must-try-in-spain/"><span style="font-weight: 400;">https://spanishsabores.com/2018/02/03/the-top-12-spanish-foods-you-must-try-in-spain/</span></a></div>
+<div class="divTableCell">&nbsp;2019</div>
+<div class="divTableCell">&nbsp;Used source to help with ideas of foods to use for the food section of the tourist site.</div>
+<div class="divTableCell">&nbsp;Food website</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">&nbsp;<a href="https://tastesbetterfromscratch.com/wp-content/uploads/2019/06/Tortilla-de-Patata-13.jpg"><span style="font-weight: 400;">https://tastesbetterfromscratch.com/wp-content/uploads/2019/06/Tortilla-de-Patata-13.jpg</span></a></div>
+<div class="divTableCell">&nbsp;2019</div>
+<div class="divTableCell">&nbsp;Used this image due to not having an original source. I used this image for the food section of my tourist site.&nbsp;</div>
+<div class="divTableCell">&nbsp;<img src="https://tastesbetterfromscratch.com/wp-content/uploads/2019/06/Tortilla-de-Patata-13.jpg" alt="" width="100" /></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">&nbsp;<a href="https://www.simplyrecipes.com/wp-content/uploads/2018/07/Seafood-Paella-LEAD-VERTICAL.jpg">https://www.simplyrecipes.com/wp-content/uploads/2018/07/Seafood-Paella-LEAD-VERTICAL.jpg</a></div>
+<div class="divTableCell">&nbsp;2019</div>
+<div class="divTableCell">&nbsp;Used image for the food section of the Madrid food site.&nbsp;</div>
+<div class="divTableCell">&nbsp;<img src="https://www.simplyrecipes.com/wp-content/uploads/2018/07/Seafood-Paella-LEAD-VERTICAL.jpg" alt="" width="100" /></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">&nbsp;<a href="https://foodsogoodmall.com/wp-content/uploads/2015/01/Marinated-Spanish-Olives3-1140x500.jpg">https://foodsogoodmall.com/wp-content/uploads/2015/01/Marinated-Spanish-Olives3-1140x500.jpg</a></div>
+<div class="divTableCell">&nbsp;2019</div>
+<div class="divTableCell">&nbsp;Used this image for the food site.</div>
+<div class="divTableCell">&nbsp;<img src="https://foodsogoodmall.com/wp-content/uploads/2015/01/Marinated-Spanish-Olives3-1140x500.jpg" alt="" width="100" /></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">&nbsp;<a href="https://socialfife.files.wordpress.com/2015/01/nyear-31.jpg">https://socialfife.files.wordpress.com/2015/01/nyear-31.jpg</a></div>
+<div class="divTableCell">&nbsp;2019</div>
+<div class="divTableCell">&nbsp;Used this image for the food site.</div>
+<div class="divTableCell">&nbsp;<img src="https://socialfife.files.wordpress.com/2015/01/nyear-31.jpg" alt="" width="100" /></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">&nbsp;<a href="https://www.happyfoodstube.com/wp-content/uploads/2016/04/Deep-Fried-Anchovies-683x1024.jpg">https://www.happyfoodstube.com/wp-content/uploads/2016/04/Deep-Fried-Anchovies-683x1024.jpg</a></div>
+<div class="divTableCell">&nbsp;2019</div>
+<div class="divTableCell">&nbsp;Used this image for the food site.</div>
+<div class="divTableCell">&nbsp;<img src="https://www.happyfoodstube.com/wp-content/uploads/2016/04/Deep-Fried-Anchovies-683x1024.jpg" alt="" width="100" /></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">&nbsp;<a href="https://moorlandseater.com/wp-content/uploads/2018/01/1500-rabo-de-toro-and-beef-fat-sauteed-potatoes-DSC05135-flipped-cropped-2.jpg">https://moorlandseater.com/wp-content/uploads/2018/01/1500-rabo-de-toro-and-beef-fat-sauteed-potatoes-DSC05135-flipped-cropped-2.jpg</a></div>
+<div class="divTableCell">&nbsp;2019</div>
+<div class="divTableCell">&nbsp;Used this image for the food site.</div>
+<div class="divTableCell">&nbsp;<img src="https://moorlandseater.com/wp-content/uploads/2018/01/1500-rabo-de-toro-and-beef-fat-sauteed-potatoes-DSC05135-flipped-cropped-2.jpg" alt="" width="100" /></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">&nbsp;<a href="https://www.bascofinefoods.com/spanish-recipes-wpfiles/wp-content/uploads/2019/03/pan-tumaca.jpg">https://www.bascofinefoods.com/spanish-recipes-wpfiles/wp-content/uploads/2019/03/pan-tumaca.jpg</a></div>
+<div class="divTableCell">&nbsp;2019</div>
+<div class="divTableCell">&nbsp;Used this image for the food site.</div>
+<div class="divTableCell">&nbsp;<img src="https://www.bascofinefoods.com/spanish-recipes-wpfiles/wp-content/uploads/2019/03/pan-tumaca.jpg" alt="" width="100" /></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">&nbsp;<a href="https://spanishsabores.com/wp-content/uploads/2015/04/IMG_6028.jpg">https://spanishsabores.com/wp-content/uploads/2015/04/IMG_6028.jpg</a></div>
+<div class="divTableCell">&nbsp;2019</div>
+<div class="divTableCell">&nbsp;Used this image for the food site.</div>
+<div class="divTableCell">&nbsp;<img src="https://spanishsabores.com/wp-content/uploads/2015/04/IMG_6028.jpg" alt="" width="100" /></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">&nbsp;<a href="https://d1doqjmisr497k.cloudfront.net/-/media/mccormick-us/recipes/mccormick/b/800/bacalao.jpg">https://d1doqjmisr497k.cloudfront.net/-/media/mccormick-us/recipes/mccormick/b/800/bacalao.jpg</a></div>
+<div class="divTableCell">&nbsp;2019</div>
+<div class="divTableCell">&nbsp;Used this image for the food site.</div>
+<div class="divTableCell">&nbsp;<img src="https://d1doqjmisr497k.cloudfront.net/-/media/mccormick-us/recipes/mccormick/b/800/bacalao.jpg" alt="" width="100" /></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">&nbsp;<a href="https://spanishsabores.com/wp-content/uploads/2016/09/meet-ham-slicer.jpg">https://spanishsabores.com/wp-content/uploads/2016/09/meet-ham-slicer.jpg</a></div>
+<div class="divTableCell">&nbsp;2019</div>
+<div class="divTableCell">&nbsp;Used this image for the food site.</div>
+<div class="divTableCell">&nbsp;<img src="https://spanishsabores.com/wp-content/uploads/2016/09/meet-ham-slicer.jpg" alt="" width="100" /></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">&nbsp;<a href="https://www.esmadrid.com/en/whats-on/atletico-madrid-bayer-leverkusen-uefa-champions-league-group-phase-match-3-wanda">https://www.esmadrid.com/en/whats-on/atletico-madrid-bayer-leverkusen-uefa-champions-league-group-phase-match-3-wanda</a></div>
+<div class="divTableCell">&nbsp;7/10/2019</div>
+<div class="divTableCell">&nbsp;Used for the information regarding when the soccer game event is. Also used for the soccer match picture.&nbsp;</div>
+<div class="divTableCell">&nbsp;<img src="https://www.esmadrid.com/sites/default/files/styles/content_type_full/public/eventos/eventos/atletico_de_madrid_-_bayer_leverkusen_uefa_champions_league.jpg?itok=b_tNVtCD" alt="Atl&eacute;tico de Madrid - Bayer Leverkusen (UEFA Champions League" width="100" /></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">&nbsp;<a href="https://www.songkick.com/concerts/38324954-blackbear-at-la-riviera">https://www.songkick.com/concerts/38324954-blackbear-at-la-riviera</a></div>
+<div class="divTableCell">&nbsp;2019</div>
+<div class="divTableCell">&nbsp;Used to link to where to purchase tickets and used for a picture of artist.&nbsp;</div>
+<div class="divTableCell">&nbsp;<img src="https://images.sk-static.com/images/media/profile_images/artists/4193346/huge_avatar" alt="Blackbear live" width="100" /></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">&nbsp;<a href="https://www.songkick.com/concerts/37870509-pixies-at-la-riviera">https://www.songkick.com/concerts/37870509-pixies-at-la-riviera</a></div>
+<div class="divTableCell">&nbsp;2019</div>
+<div class="divTableCell">&nbsp;Used to link to where to purchase tickets and used for a picture of artist.&nbsp;</div>
+<div class="divTableCell">&nbsp;<img src="https://images.sk-static.com/images/media/profile_images/artists/297809/huge_avatar" alt="Pixies live" width="100" /></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">&nbsp;<a href="https://www.songkick.com/concerts/37956694-lumineers-at-wizink-center">https://www.songkick.com/concerts/37956694-lumineers-at-wizink-center</a></div>
+<div class="divTableCell">&nbsp;2019</div>
+<div class="divTableCell">&nbsp;&nbsp;Used to link to where to purchase tickets and used for a picture of artist.</div>
+<div class="divTableCell">&nbsp;<img src="https://images.sk-static.com/images/media/profile_images/artists/2827981/huge_avatar" alt="The Lumineers live" width="100" /></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><a href="https://dissolve.com/stock-photo/Statue-Bear-Strawberry-Tree-Madrid-Coat-Arms-royalty-free-image/101-D869-35-852">https://dissolve.com/stock-photo/Statue-Bear-Strawberry-Tree-Madrid-Coat-Arms-royalty-free-image/101-D869-35-852</a></div>
+<div class="divTableCell">2019</div>
+<div class="divTableCell">Used to outline the bear in Adobe illustrator then created the logo for my site with the image of the bear and the strawberry tree.&nbsp;</div>
+<div class="divTableCell"><img src="https://cdn8.dissolve.com/p/D869_35_852/D869_35_852_1200.jpg" alt="Statue Of Bear And Strawberry Tree From Madrid's Coat Of Arms; Madrid, Spain Royalty-free stock photo" width="100" /></div>
+</div>
+</div>
+</div>
+
+    </div>
+
+  </div>
+</body>
+</html>
