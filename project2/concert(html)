@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Madrid Spain</title>
+</head>
+
+<body>
+ <div class="container">
+    <div class="concerts">
+      <h2 class="concerttitle">Concerts</h2>
+      <div class="concertinfo">
+        <img class="artist" src="assets/images/blackbear.jpg">
+        <h3>Blackbear</h3>
+        <b>When:</b><p> Monday, Oct 21 at 9:00PM</p>
+        <b>Where:</b><p> Paseo Bajo de la Virgen del Puerto, S/N, 28005 Madrid, Spain</p>
+        <a href="https://www.songkick.com/concerts/38324954-blackbear-at-la-riviera">
+        <div class="tickets">
+          <h4>Get Tickets Now</h4>
+        </div>
+        </a>
+      <div>
+
+      <div class="concertinfo">
+        <img class="artist" src="assets/images/pixies.jpg">
+        <h3>Pixies</h3>
+        <b>When:</b><p> Thursday, Oct 24 at 9:00PM</p>
+        <b>Where:</b><p> Paseo Bajo de la Virgen del Puerto, S/N, 28005 Madrid, Spain</p>
+        <a href="https://www.songkick.com/concerts/37870509-pixies-at-la-riviera">
+        <div class="tickets">
+          <h4>Get Tickets Now</h4>
+        </div>
+        </a>
+      <div>
+
+      <div class="concertinfo">
+        <img class="artist" src="assets/images/lumineers.jpg">
+        <h3>Lumineers</h3>
+        <b>When:</b><p> Saturday, Nov 2nd at 9:30PM</p>
+        <b>Where:</b><p> Av. Felipe II, s/n, 28009 Madrid, Spain</p>
+        <a href="https://www.songkick.com/concerts/37956694-lumineers-at-wizink-center">
+        <div class="tickets">
+          <h4>Get Tickets Now</h4>
+        </div>
+        </a>
+      <div>
+
+    </div>
+  </div>
+</body>
+</html>
