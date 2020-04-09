@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="UTF-8">
+    </head>
+    
+    <body>
+      <div class="container">
+      <div id = "survey">
+        <form action = "formprocess.php" method = "POST">
+            
+            <div class = "surveyform" id = "visitName">
+                Enter your name:
+                <input type = "text" name = "visitName">
+            </div>
+            
+            <div class = "surveyform" id = "rateMadrid">
+                On a scale from 0-5, how much did you like visiting Madrid? 0 - least, 5 - most <br> <br>
+                0
+                <input type = "range" name = "rateMadrid" min = "0" max = "5" step = "1">
+                5
+            </div>
+            
+            <div class = "surveyform" id = "location">
+                What location did you enjoy the most? (ex. Plaza Mayor, Royal Palace of Madrid, or Gran Via)
+                <input type = "text" name = "location">
+            </div> 
+            
+            <div class = "surveyform" id = "websiteImprove">
+                How could the interface of this website improve to make it more user-friendly?
+                <input type = "text" name = "websiteImprove">
+            </div> 
+            
+            <div class = "surveyform" id = "surveyButton">
+                    <button id = "submitSurvey" type = "submit"><img id = "submitPic" src = "../assets/images/submit.png"></button>
+            </div> 
+            
+         </form>
+        </div>
+       </div>
+    </body>
+    
+</html>
