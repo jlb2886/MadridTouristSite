@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<div id="formContainer">
+		<form action="/~jlb2886/240/project2/comments/home.php" method="GET" class="form" onsubmit="return validateForm();">		
+
+		<input type = "text" id = "name" name = "name" placeholder = "name" >
+		<input type = "text" id = "comment" name = "comment" placeholder = "comment">
+
+		<div id = "formButton">
+			<input class = "button" type = "submit" value = "Comment" />
+		</div>
+		</form>
+	</div>
+	<hr>
+</body>
+</html>
