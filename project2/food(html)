@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Madrid Spain</title>
+</head>
+<body>
+<div class="row">
+  <div class="column">
+    <div class="container">
+    <img src="../assets/images/Tortilla-de-Patata-13.jpg" alt="Tortilla de patatas" class="image">
+    <div class="overlay">
+      <div class="text">What is better than potatoes and eggs for breakfast? How about served together as a thick omelet served by the slice. This loaf of eggs and potatoes is a dish served all around Spain mainly for breakfast. This dish used to be known as the peasant’s meal due to the dish being very popular around times of famine. </div>
+    </div>
+    </div> <!-- end of food class -->
+    <div class="container">
+    <img src="../assets/images/1500-rabo-de-toro-and-beef-fat-sauteed-potatoes-DSC05135-flipped-cropped-2.jpg" alt="Tortilla de patatas" class="image">
+    <div class="overlay">
+      <div class="text">This dish is something you will never be able to perfect outside of Spain. This dish is made of braised pork cheeks or beef cheeks and is usually marinated in a sauce or sometimes a sauce is added on top for more flavor.</div>
+    </div>
+    </div> <!-- end of food class -->
+  </div>
+  <div class="column">
+    <div class="container">
+    <img src="../assets/images/Seafood-Paella-LEAD-VERTICAL.jpg" alt="Tortilla de patatas" class="image">
+    <div class="overlay">
+      <div class="text">This meal is the most iconic Spanish meal. It is served all around Spain and is served in just about any restaurant you walk into. This meal is made in a large pan that is specifically for paella. There are so many different kinds of ways to make this famous dish however the basics consist of rice and seafood with vegetables and possibly other sources of protein.</div>
+    </div>
+    </div> <!-- end of food class -->
+      <div class="container">
+    <img src="../assets/images/pan-tumaca.jpg" alt="Tortilla de patatas" class="image">
+    <div class="overlay">
+      <div class="text">This dish is served as a breakfast or afternoon snack in Spain. It consists of bread, olive oil, salt, and tomato spread. It is one of the more simple dishes however it is a delightful food to enjoy in Spain during your stay.</div>
+    </div>
+    </div> <!-- end of food class -->
+      <div class="container">
+    <img src="../assets/images/meet-ham-slicer.jpg" alt="Tortilla de patatas" class="image">
+    <div class="overlay">
+      <div class="text">Just walking down the streets of Madrid you may notice many shops that have dried pork legs surrounding the lining of the store and hanging from their ceilings. This is a very commonly known snack in Madrid. This cured Iberian ham is absolutely delicious and you cannot leave Madrid without trying this delicacy.</div>
+    </div>
+    </div> <!-- end of food class -->
+  </div>
+  <div class="column">
+    <div class="container">
+    <img src="../assets/images/IMG_3876.jpg" alt="Tortilla de patatas" class="image">
+    <div class="overlay">
+      <div class="text">This perfectly stewed bull’s tail is absolutely done to perfection in Spain. There is no place better to enjoy this dish than to be in the country that is home to the symbolic bull. This is another one of Spain’s more traditional dishes, and while knowing that it is the tail of the bull may turn you off from trying this dish, try it first because you may love it.</div>
+    </div>
+    </div> <!-- end of food class -->
+      <div class="container">
+    <img src="../assets/images/IMG_6028.jpg" alt="Tortilla de patatas" class="image">
+    <div class="overlay">
+      <div class="text">This food is a soup served cold. Yes, you may be thinking why would soup be cold, but think again as this soup is delightful. It is a Tomato based soup topped with olive oil, bread crumbs, and tastes of creamy garlic. This dish originated from Cordoba but made its way to Madrid for many restaurants to serve.</div>
+    </div>
+    </div> <!-- end of food class -->
+    <div class="container">
+    <img src="../assets/images/nyear-31.jpg" alt="Tortilla de patatas" class="image">
+    <div class="overlay">
+      <div class="text">This food is probably one of the more traditional foods that are most common in Segovia, a city an hour outside Madrid. This food is made from a suckling pig that is slow-roasted to perfection. </div>
+    </div>
+    </div> <!-- end of food class -->
+      <div class="container">
+    <img src="../assets/images/bacalao.jpg" alt="Tortilla de patatas" class="image">
+    <div class="overlay">
+      <div class="text">This dish is served in many forms but is overall salted cod. You may be able to order it grilled, fried, or stuffed depending on the reteraunt you may be at in Madrid. Restaurants mostly grill the cod, so most likely whatever local restaurant you are in will have grilled Bacalao.</div>
+    </div>
+    </div> <!-- end of food class -->
+  </div>
+</div>
+</body>
+</html>
